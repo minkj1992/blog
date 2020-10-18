@@ -1,3 +1,7 @@
 [submodule "themes/timeline"]
 	path = themes/timeline
 	url = https://github.com/s4n7h0/hugo-theme-timeline.git
+[submodule "public"]
+	path = public
+	url = https://github.com/minkj1992/minkj1992.github.io.git
+	branch = master

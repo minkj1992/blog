@@ -1,4 +1,4 @@
-baseURL = "https://minkj1992.github.io/"
+baseURL = "https://minkj1992.github.io"
 languageCode = "kr-ko"
 title = "Leoo's history"
 theme = "timeline"
@@ -123,12 +123,7 @@ disableHugoGeneratorInject = false
     subtitle  = "Timeline"
     weight    = 1
     copyright = ''
-
-  [languages.fr]
-    subtitle  = "Timeline"
-    weight    = 2
-    copyright = '<a href="https://github.com/s4n7h0/hugo-theme-timeline/blob/main/LICENSE" target="_blank" rel="noopener">MIT</a>'
-
+    
 [menu]
   [[menu.main]]
     identifier = "info"

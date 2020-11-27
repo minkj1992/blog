@@ -1,6 +1,6 @@
 baseurl = "https://minkj1992.github.io/"
 languageCode = "ko"
-title = "Laeoo's history"
+title = "Leoo's history"
 # theme = "timeline"
 
 # theme = ["my-shortcodes", "base-theme", "hyde"]

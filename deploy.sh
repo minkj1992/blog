@@ -6,7 +6,8 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo -t timeline # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -D
+# hugo -t timeline # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public

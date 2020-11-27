@@ -1,0 +1,10 @@
+github.com/minkj1992/django-rest-tutorial v1.0.0 h1:5gC57A+ZSZ/rXILMz1S2zaoklQNmw1JDz/O4zj6vijM=
+github.com/minkj1992/django-rest-tutorial v1.0.0/go.mod h1:IpJ6D3ZmE9QP2Vu1vB1fpc3kfFmq/zJnnCcujJeEzoE=
+github.com/minkj1992/django_docs v0.0.0-20201017084210-03da503cd327 h1:A6bL+trYPFpjr9OmcYfm/Tn+zQjMPwcH+tOV6nweA1E=
+github.com/minkj1992/django_docs v0.0.0-20201017084210-03da503cd327/go.mod h1:1dGvgv5vaPf5PhKLPDRcTMAbsql7czz0JDSjUmcAqDM=
+github.com/minkj1992/hugo v0.0.0-20201031055418-ff0a9be4ba9a h1:VNSMjlBMq4iwHXhHOPLMNS4n9HQVN2TeTtTNOWVhW60=
+github.com/minkj1992/hugo v0.0.0-20201031055418-ff0a9be4ba9a/go.mod h1:ztLx3/CtmFRzW+7pJlZJVscOyin3pNOQuhMfVDbUcn8=
+github.com/minkj1992/kube v0.0.0-20201026042644-50eebf5926c9 h1:U90ra/j+rv+r4yl5bl05GCoW2jfByh+F9kYgGL9JQ2g=
+github.com/minkj1992/kube v0.0.0-20201026042644-50eebf5926c9/go.mod h1:3Ap8chXl8jP+1Mx0TB8Y4HjIpJ0GFi/wd87Qp0yCfM4=
+github.com/s4n7h0/hugo-theme-timeline v0.0.0-20201011151605-b2edb87d3406 h1:X/sQ7au3Q7ZmoQ/Vu1jXvxeKUv8cRbjndHOZEWzRX8g=
+github.com/s4n7h0/hugo-theme-timeline v0.0.0-20201011151605-b2edb87d3406/go.mod h1:RIXoQXVTtMbyVv0a04h7c+kcLrudI2I7VQiuNrH2r+M=

@@ -6,13 +6,19 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo -D
+hugo
 # hugo -t timeline # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
 
+# Setting for submodule commit
+git config --local user.name "minkj1992"
+git config --local user.email "minkj1992@gmail.com"
+git submodule update --init --recursive
+
 # Add changes to git.
+
 git add .
 
 # Commit changes.

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leoo&#39;s history</title>
+    <link>https://minkj1992.github.io/</link>
+    <description>Recent content on Leoo&#39;s history</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>minkj1992@gmail.com (leoo.j)</managingEditor>
+    <webMaster>minkj1992@gmail.com (leoo.j)</webMaster>
+    <lastBuildDate>Sun, 18 Oct 2020 18:19:37 +0900</lastBuildDate><atom:link href="https://minkj1992.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>타임라인...</title>
+      <link>https://minkj1992.github.io/timeline/%EB%AC%B4%EC%A0%9C/</link>
+      <pubDate>Sun, 18 Oct 2020 18:19:37 +0900</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/timeline/%EB%AC%B4%EC%A0%9C/</guid>
+      <description>2020년 6월 제주도 여행  20.06.04(목) - 20.06.10(수)
+ songs  재달  모험 World in my mind   sogumm  큰 꿈   YoungB  지도    키드킹   200604(목)  여행의 시작
+ 장소: 애월리 고내리2층 201호 아시아나 왕복: 41000 Total: 93,926 스타벅스 콜드브루 중간: 5000 게스트 하우스 1박: 53,226 - 택시 - 집 -&amp;gt; 공항버스정류장: 5400 - 공항 -&amp;gt; 게스트하우스: 16300 편의점 라면 및 맥주: 14400 여행의 시작 20.</description>
+    </item>
+    
+    <item>
+      <title>지출 계획</title>
+      <link>https://minkj1992.github.io/timeline/post_test/</link>
+      <pubDate>Sun, 18 Oct 2020 18:17:37 +0900</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/timeline/post_test/</guid>
+      <description>2020지출계획  수습 200,월급 세후 280 평균저축비 85, 평균이상 120
+  전략: 90만원 저축, 30만원 투자 한달평균 유동자금: 120 ( 목표비 )  - 생활비(50) - 1일 16,000원 - 저축 - 청약저축 - 연말정산(한달 20-&amp;gt; 16만원 반환) - 금액 - 투자 - 기타 - 자기개발비 - 부모님 선물 - 여행 1월  설 상여금(150) + 수습월급(190)
+  아버지 카메라(150 - 200) 생활비(50) 2월 어머니(50)  유동자금: 40
+2월  수습월급(200)</description>
+    </item>
+    
+    <item>
+      <title>테스트</title>
+      <link>https://minkj1992.github.io/timeline/test/</link>
+      <pubDate>Sun, 18 Oct 2020 18:17:37 +0900</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/timeline/test/</guid>
+      <description>2020년 6월 제주도 여행  20.06.04(목) - 20.06.10(수)
+ songs  재달  모험 World in my mind   sogumm  큰 꿈   YoungB  지도    키드킹   200604(목)  여행의 시작
+ 장소: 애월리 고내리2층 201호 아시아나 왕복: 41000 Total: 93,926 스타벅스 콜드브루 중간: 5000 게스트 하우스 1박: 53,226 - 택시 - 집 -&amp;gt; 공항버스정류장: 5400 - 공항 -&amp;gt; 게스트하우스: 16300 편의점 라면 및 맥주: 14400 여행의 시작 20.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://minkj1992.github.io/dev/zsh_bash_pyenv_%EC%B6%A9%EB%8F%8C/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/dev/zsh_bash_pyenv_%EC%B6%A9%EB%8F%8C/</guid>
+      <description>zsh와 pyenv를 통한 python 버전 충돌 참고자료</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://minkj1992.github.io/dev/zsh_vscode_shortcut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/dev/zsh_vscode_shortcut/</guid>
+      <description>zsh .code 명령어 ~/.zshrc
+# for VS code code command code () { VSCODE_CWD=&amp;#34;$PWD&amp;#34; open -n -b &amp;#34;com.microsoft.VSCode&amp;#34; --args $* ; </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://minkj1992.github.io/dev/api_schema/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/dev/api_schema/</guid>
+      <description>API SCHEMA  공식 문서
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://minkj1992.github.io/dev/django_model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/dev/django_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://minkj1992.github.io/dev/fbv_cbv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/dev/fbv_cbv/</guid>
+      <description>FBV vs CBV  link
+  Function Base View (FBV - 함수 기반 뷰)  함수로 구현한 뷰   Class Base View (CBV - 클래스 기반 뷰)  클래스로 함수를 구현한 뷰    FBV from django.shortcuts import get_object_or_404, render def person_detail(request, id): person = get_object_or_404(Person, id=id) return render(request, &amp;#39;person/person_detail.html&amp;#39;,{ &amp;#39;person&amp;#39;: person, }) person_detail(4) CBV  재사용을 위해서 사용하는 일종의 템플릿 (DRY principle)
+ class DetailView: @classmethod def as_view(cls, model): def view_fn(request, id): instance = get_object_or_404(model, id=id) instance_name = model.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://minkj1992.github.io/dev/httprequest_httpresponse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/dev/httprequest_httpresponse/</guid>
+      <description>HttpRequest, HttpResponse  참고
+ HttpRequest  클라이언트로 부터 들어오는 모든 요청을 wrap하는 클래스
+  views.py def method(request):인 request가 해당 클래스이다. FBV에서는 request로, CBV에서는 self.request로 접근한다.  HttpRequest&amp;rsquo;s Attributes method
+request 요청의 종류를 나타냅니다. &amp;ldquo;GET&amp;rdquo; 또는 &amp;ldquo;POST&amp;rdquo; 로서 대문자로 저장이 됩니다. 다음과 같은 분기문을 통해서 들어온 요청에 종류에 따라서 다른 작업을 수행할 수 있습니다.
+def post_create(request): if request.method == &amp;#34;POST&amp;#34;: # 생략 else if request.method == &amp;#34;GET&amp;#34;: # 생략   GET: GET 인자 목록에 접근 할 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://minkj1992.github.io/dev/mixins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/dev/mixins/</guid>
+      <description>Mixins  ..
+ In object-oriented programming languages, a mixin is a class that contains methods for use by other classes without having to be the parent class of those other classes. How those other classes gain access to the mixin&amp;rsquo;s methods depends on the language. Mixins are sometimes described as being &amp;ldquo;included&amp;rdquo; rather than &amp;ldquo;inherited&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://minkj1992.github.io/dev/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/dev/readme/</guid>
+      <description>django_docs This is repository for studying Django&amp;rsquo;s elements.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://minkj1992.github.io/dev/rest_httprequest_httpresponse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>minkj1992@gmail.com (leoo.j)</author>
+      <guid>https://minkj1992.github.io/dev/rest_httprequest_httpresponse/</guid>
+      <description>Django REST에서의 REQ &amp;amp; RESP  Django의 HttpResponse &amp;amp; HttpRequest처럼 request를 사용한다.
+ Request  request.POST # Only handles form data. Only works for &amp;lsquo;POST&amp;rsquo; method. request.data # Handles arbitrary data. Works for &amp;lsquo;POST&amp;rsquo;, &amp;lsquo;PUT&amp;rsquo; and &amp;lsquo;PATCH&amp;rsquo; methods.  더 이상 지정된 콘텐츠 유형에 대한 요청 또는 응답을 명시 적으로 연결하지 않아도 됩니다.request.data로 들어오는 json요청을 처리 할 수 있으며, 추가로 다른 형식들도 처리 할 수 ​​있습니다. 마찬가지로 데이터가 포함 된 응답 객체를 반환하지만 REST 프레임 워크가 응답을 올바른 컨텐츠 유형으로 렌더링하도록 허용합니다.</description>
+    </item>
+    
+  </channel>
+</rss>

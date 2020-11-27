@@ -2,7 +2,7 @@
 title: "지출 계획"
 date: 2020-10-18T18:17:37+09:00
 draft: false
-toc: false
+toc: true
 images:
 tags:
   - untagged

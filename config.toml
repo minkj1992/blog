@@ -82,7 +82,7 @@ disableHugoGeneratorInject = false
   description = "Leoo's history for better world"
   keywords = "timeline hugo template"
   # images = ["resources/_gen/images/jeju.jpg"]
-  images = "images/jeju.jpg"
+  images = "./sources/assets/images/jeju.jpg"
 
   homeSubtitle = "timeline template for hugo"
 

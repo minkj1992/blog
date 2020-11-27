@@ -81,7 +81,7 @@ disableHugoGeneratorInject = false
   # Metadata mostly used in document's head
   description = "Leoo's history for better world"
   keywords = "timeline hugo template"
-  images = [""]
+  images = ["resources/images/jeju.jpg"]
 
   homeSubtitle = "timeline template for hugo"
 

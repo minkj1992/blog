@@ -5,6 +5,7 @@ title = "Leoo's history"
 
 # theme = ["my-shortcodes", "base-theme", "hyde"]
 
+
 [module]
   [[module.imports]]
     path = "github.com/s4n7h0/hugo-theme-timeline"
@@ -25,6 +26,27 @@ title = "Leoo's history"
       [[module.imports.mounts]]
       source = "."
       # source = "."
+      target = "content/dev"
+  [[module.imports]]
+      path = "github.com/minkj1992/git"
+      disabled = false
+
+      [[module.imports.mounts]]
+      source = "."
+      target = "content/dev"
+
+  [[module.imports]]
+      path = "github.com/minkj1992/go_nomad"
+      disabled = false
+      [[module.imports.mounts]]
+      source = "."
+      target = "content/dev"
+
+  [[module.imports]]
+      path = "github.com/minkj1992/web"
+      disabled = false
+      [[module.imports.mounts]]
+      source = "."
       target = "content/dev"
 
 PygmentsCodeFences = true

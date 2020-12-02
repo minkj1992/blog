@@ -48,6 +48,12 @@ title = "Leoo's history"
       [[module.imports.mounts]]
       source = "."
       target = "content/dev"
+  [[module.imports]]
+      path = "github.com/minkj1992/kubernetes-pattern"
+      disabled = false
+      [[module.imports.mounts]]
+      source = "."
+      target = "content/dev"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"

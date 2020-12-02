@@ -9,6 +9,7 @@ require (
 	github.com/minkj1992/go_nomad v0.0.0-20201126090339-8b84b5724529 // indirect
 	github.com/minkj1992/hugo v0.0.0-20201031055418-ff0a9be4ba9a // indirect
 	github.com/minkj1992/kube v0.0.0-20201026042644-50eebf5926c9 // indirect
+	github.com/minkj1992/kubernetes-pattern v0.0.0-20201202110552-df12a3dd3aa7 // indirect
 	github.com/minkj1992/web v0.0.0-20201123115510-7e5545268d36 // indirect
 	github.com/s4n7h0/hugo-theme-timeline v0.0.0-20201011151605-b2edb87d3406 // indirect
 )
